@@ -13,7 +13,13 @@ A aplicação foi desenvolvida em C++ em conjunto com a ferramenta QTCreator par
 
 - Abra o Terminal
 - Vá até a local onde foi realizado o download do arquivo "DevelopmentRequirements"
+- Digite o comando abaixo para permitir que a aplicação seja executada
+```
+ sudo chmod +x ./DevelopmentRequirements 
+```
+
 - Digite o comando abaixo para executar a aplicação
+
 ```
 sudo ./DevelopmentRequirements
 ```
