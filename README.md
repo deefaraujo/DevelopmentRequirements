@@ -24,3 +24,7 @@ sudo ./DevelopmentRequirements
 - Após a instalação ou na existencia do pacote instalado na máquina, será realizada a alteração da opção na cor "vermelha" para a cor "verde"
 
 ![Captura de tela de 2023-03-26 14-45-19](https://user-images.githubusercontent.com/55367917/227794878-9ccc8ce4-2d8c-4911-809c-7f0885e18e8e.png)
+
+
+#### ATENÇÃO
+ESTE PROJETO AINDA ESTÁ EM DESENVOLVIMENTO ENTÃO PODE APRESENTAR BUGS
