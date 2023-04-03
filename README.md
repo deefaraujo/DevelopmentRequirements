@@ -9,14 +9,6 @@ A aplicação foi desenvolvida em C++ em conjunto com a ferramenta QTCreator par
 - Docker
 - Docker-Compose
 
-### Dependências
-- Para rodar o DevelopmentRequirements é preciso instalar algumas bibliotecas
-- Então abra o Terminal e digite o comando abaixo:
-
-```
-sudo apt-get install libqt5quickcontrols2-5 libqt5multimedia5 libqt5webengine5 libqt5quick5 libqt5qml5
-```
-
 ### Como rodar a aplicação no Ubuntu
 
 - Abra o Terminal
