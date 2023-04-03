@@ -2,7 +2,7 @@
 
 A aplicação foi desenvolvida em C++ em conjunto com a ferramenta QTCreator para facilitar a instalação de pacotes que são necessários para preparar o ambiente de desenvolvimento (o meu no caso, rs) mas podendo vir a ajudar outras pessoas também.
 
-### Lista de pacotes disponiveis até a versão mais recente - 1.0.0
+### Lista de pacotes disponiveis até a versão mais recente - 0.1.0
 - CUDA
 - CUDA Toolkit
 - Container Toolkit
