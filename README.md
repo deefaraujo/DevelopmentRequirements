@@ -26,8 +26,7 @@ sudo ./DevelopmentRequirements
 
 ### Instalação dos pacotes 
 - Para realizar a instalação dos pacotes basta clicar em qualquer uma das opções disponiveis 
-
-![Captura de tela de 2023-03-26 14-22-34](https://user-images.githubusercontent.com/55367917/227794208-e3c46c4f-893c-415c-ae9e-c581a3af9a67.png)
+![Captura de tela de 2023-04-02 22-40-17](https://user-images.githubusercontent.com/55367917/229393113-24607219-691b-4120-9ba7-c933bdaaa189.png)
 
 - Após a instalação ou na existencia do pacote instalado na máquina, será realizada a alteração da opção na cor "vermelha" para a cor "verde"
 
